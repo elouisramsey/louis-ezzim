@@ -1,0 +1,28 @@
+.recipe {
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(129, 123, 123);
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: whitesmoke;
+    min-width: 40%;
+}
+
+.recipe img {
+    margin-top: 10px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    font-size: xx-large;
+    color: rgb(56, 52, 52);
+}
+
+ul li {
+    width: 90%;
+    padding-bottom: 5px;
+    color: rgb(49, 44, 44);
+}
